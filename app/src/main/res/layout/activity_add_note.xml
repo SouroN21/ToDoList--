@@ -8,6 +8,7 @@
     android:padding="16dp"
     tools:context=".AddNoteActivity">
 
+
     <TextView
         android:id="@+id/addNoteHeading"
         android:layout_width="wrap_content"
